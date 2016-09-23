@@ -14,6 +14,7 @@ namespace ConsoleAppGit
           //TODO
             //FIXME
 
+            Console.WriteLine("");
         }
     }
 }
