@@ -7,6 +7,13 @@ namespace ConsoleAppGit
     {
         static void Main(string[] args)
         {
+            //todo add some code
+
+            //fixme
+
+          //TODO
+            //FIXME
+
         }
     }
 }
