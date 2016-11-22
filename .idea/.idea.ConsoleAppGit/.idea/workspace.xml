@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d88206-263e-43a6-9cbe-55f46456ba06" name="Default" comment="add class1.cs">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ConsoleAppGit/Program.cs" afterPath="$PROJECT_DIR$/../../ConsoleAppGit/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/riderModule.iml" afterPath="$PROJECT_DIR$/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs" afterPath="$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs" />
     </list>
     <ignored path="ConsoleAppGit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,30 +25,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <marker date="1475147185000" expanded="true" signature="6:47" ph="..." />
-                <marker date="1475147185000" expanded="true" signature="72:313" ph="{...}" />
-                <marker date="1475147185000" expanded="true" signature="92:311" ph="{...}" />
-                <marker date="1475147185000" expanded="true" signature="138:305" ph="{...}" />
-                <marker date="1475147185000" expanded="true" signature="161:240" ph="/* todo add some code ... */" />
+                <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+                <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+                <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+                <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Class2.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1475147953000" expanded="true" signature="49:62" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
-                <marker date="1475147141000" expanded="true" signature="23:64" ph="{...}" />
-                <marker date="1475147141000" expanded="true" signature="49:62" ph="{...}" />
+                <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+                <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+                <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
               </folding>
             </state>
           </provider>
@@ -66,8 +81,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs" />
         <option value="$PROJECT_DIR$/../../ConsoleAppGit/Program.cs" />
+        <option value="$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs" />
       </list>
     </option>
   </component>
@@ -118,31 +133,57 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConsoleAppGit (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConsoleAppGit" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pdfs" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/sampleprojects/cake/src/Cake.sln" />
-    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ConsoleAppGit/pdfs/YouAreNotDoneYet.pdf" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
       <method />
     </configuration>
     <list size="1">
@@ -151,6 +192,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -162,6 +206,12 @@
       <workItem from="1474618366733" duration="570000" />
       <workItem from="1474619279720" duration="1175000" />
       <workItem from="1475147144358" duration="95000" />
+      <workItem from="1475153620421" duration="35000" />
+      <workItem from="1475154207910" duration="300000" />
+      <workItem from="1475154794446" duration="6000" />
+      <workItem from="1476709006884" duration="13000" />
+      <workItem from="1476890582977" duration="153000" />
+      <workItem from="1479810415982" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1474619355091</created>
@@ -177,11 +227,25 @@
       <option name="project" value="LOCAL" />
       <updated>1474620378144</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add class1.cs">
+      <created>1476890611391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476890611391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add pdfs">
+      <created>1479810612587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1479810612587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1840000" />
+    <option name="totallyTimeSpent" value="3013000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -197,7 +261,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2682216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -212,6 +276,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Internal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -227,7 +292,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="add todo&#10;add fixme" />
     <MESSAGE value="add class1.cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class1.cs" />
+    <MESSAGE value="add pdfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pdfs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -236,14 +302,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <marker date="1475147185000" expanded="true" signature="6:47" ph="..." />
-            <marker date="1475147185000" expanded="true" signature="72:313" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="92:311" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="138:305" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="161:240" ph="/* todo add some code ... */" />
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="49:62" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -253,8 +329,153 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1475147141000" expanded="true" signature="23:64" ph="{...}" />
-            <marker date="1475147141000" expanded="true" signature="49:62" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="49:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="49:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="49:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="49:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
           </folding>
         </state>
       </provider>
@@ -264,11 +485,63 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1475147185000" expanded="true" signature="6:47" ph="..." />
-            <marker date="1475147185000" expanded="true" signature="72:313" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="92:311" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="138:305" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="161:240" ph="/* todo add some code ... */" />
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
           </folding>
         </state>
       </provider>
@@ -280,27 +553,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <marker date="1475147141000" expanded="true" signature="23:64" ph="{...}" />
-            <marker date="1475147141000" expanded="true" signature="49:62" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1475147953000" expanded="true" signature="72:313" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="92:311" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="138:305" ph="{...}" />
+            <marker date="1475147953000" expanded="true" signature="161:240" ph="/* ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Program.cs">
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class2.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1475147185000" expanded="true" signature="6:47" ph="..." />
-            <marker date="1475147185000" expanded="true" signature="72:313" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="92:311" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="138:305" ph="{...}" />
-            <marker date="1475147185000" expanded="true" signature="161:240" ph="/* todo add some code ... */" />
+            <marker date="1475147953000" expanded="true" signature="49:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ConsoleAppGit/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <marker date="1479812175000" expanded="true" signature="23:86" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="49:84" ph="{...}" />
+            <marker date="1479812175000" expanded="true" signature="65:78" ph="/* ... */" />
           </folding>
         </state>
       </provider>
